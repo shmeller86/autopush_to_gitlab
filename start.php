@@ -20,10 +20,10 @@ Class Config {
     protected $te_token = '';
     protected $proxy = array(
         "on" => true,
-        "host" => "46.22.211.102",
-        "port" => 1080,
-        "user" => "gsoft",
-        "pass" => "!gsoftGSOFT1"
+        "host" => "",
+        "port" => ,
+        "user" => "",
+        "pass" => ""
     );
 
 
